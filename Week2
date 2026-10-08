@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="icon" href="favicon.png" />
+<title>Library member profile & Registration</title>
+</head>
+<body>
+<p><b><i> Library Member Profile & Registration</i></b></p>
+<p><b>Library member profile</b></p>
+<table border="1">
+<tr>
+<th>Member ID</th>
+<th>Name</th>
+<th>Email</th>
+<th>Image</th>
+</tr>
+<tr>
+<td>24</td>
+<td>Nowrin</td>
+<td>nowrinmaisha@gmail.com</td>
+<td>
+<img src="data:image/jpeg;base64,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"
+
+height="20">
+</a>
+</td>
+</tr>
+</table>
+<h2><b>Membership Registration Form:</b></h2>
+
+<form action="" method="get">
+<label for="Name">Name:</label>
+<input type="text" id="Name"name="Name" placeholder ="Enter Your Name" required><br><br>
+<label for="Email">Email:</label>
+<input type="Email" id="Email" name="Email" required><br><br>
+<label for="password">Password:</label>
+<input type="password" id="password" name="password" Placeholder="Enter password" required><br><br>
+<label for="age">Age:</label>
+<input type="number" id="age" name="age" required><br><br>
+<label for="dob">Date of Birth:</label>
+<input type="date" id="dob" name="dob" required><br><br>
+
+<label for="Radio">Gender:</label>
+<label for="male">Male</label>
+<input type="Radio" id="male" name="Gender" value="male" required>
+<label for="female">Female</label>
+<input type="Radio" id="female" name="Gender" value="female" required<br><br>
+<label for="other">Other</label><br><br>
+
+<label for="membership"><b>Membership Type:</b></label>
+
+<select id="membership" name="membership": required>
+<option value="">Select Membership Type</option>
+<option value="Basic">Basic</option>
+<option value="Premium">Premium</option>
+<option value="Student">Student</option>
+</select>
+<br><br>
+<label for="profile">
+            Upload Profile Picture:
+        </label>
+
+        <input
+            type="file"
+            id="profile"
+            name="profile">
+
+        <br><br>
+<label for="address">Address:</label>
+<textArea id="address"
+       name="address"
+       rows="3"
+       Cols="20"
+       placeholder="Enter Your Address"
+       required></textarea><br><br>
+<label for="terms">I agree to the terms .</label>
+<input type="checkbox" id="terms"name="terms" value="accepted" required>
+<br><br>
+<input type="submit" value="Submit">
+
+</form>
+
+</body>
+
+</html>
